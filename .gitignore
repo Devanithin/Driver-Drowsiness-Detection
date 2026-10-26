@@ -1,0 +1,15 @@
+# Python environment and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.cache/
+
+# Datasets (download them yourself, see README)
+data/
+
+# Downloaded automatically by the notebooks
+models/torch_cache/
+models/face_landmarker.task
+
+# Editor settings
+.vscode/
